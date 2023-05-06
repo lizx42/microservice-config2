@@ -1,6 +1,0 @@
-diff a/application.yml b/application.yml	(rejected hunks)
-@@ -0 +0 @@
--profile: hello3
-\ No newline at end of file
-+profile: hello4
-\ No newline at end of file
